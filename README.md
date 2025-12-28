@@ -23,25 +23,28 @@ We propose an autonomous, memory-driven decision enforcement layer that:
 
 ## Repository Structure
 
+```text
 synaptix-buildathon-innovatrix/
 │
 ├── README.md
 │
 ├── docs/
-│ ├── architecture.md
-│ ├── agent-flow.md
-│ ├── memory-model.md
+│   ├── architecture.md
+│   ├── agent-flow.md
+│   ├── memory-model.md
 │
 ├── proposal/
-│ └── Innovatrix_Synaptix_Buildathon_Proposal.pptx
+│   └── Innovatrix_Synaptix_Buildathon_Proposal.pptx
 │
 ├── pathway/
-│ ├── pipeline_overview.md
-│ └── future_implementation.md
+│   ├── pipeline_overview.md
+│   └── future_implementation.md
 │
 └── references/
-├── pathway_links.md
-└── research_notes.md
+    ├── pathway_links.md
+    └── research_notes.md
+```
+
 
 ## Track
 Track 1 — Agentic AI (Applied GenAI)
