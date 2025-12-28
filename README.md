@@ -22,6 +22,7 @@ We propose an autonomous, memory-driven decision enforcement layer that:
 - Production-oriented agentic design
 
 ## Repository Structure
+
 synaptix-buildathon-innovatrix/
 │
 ├── README.md
