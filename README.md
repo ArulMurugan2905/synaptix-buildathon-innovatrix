@@ -22,10 +22,25 @@ We propose an autonomous, memory-driven decision enforcement layer that:
 - Production-oriented agentic design
 
 ## Repository Structure
-- `docs/` — Architecture, agent flow, and memory model
-- `proposal/` — Final Build-athon presentation
-- `pathway/` — Execution model and future implementation notes
-- `references/` — Official documentation and research material
+synaptix-buildathon-innovatrix/
+│
+├── README.md
+│
+├── docs/
+│   ├── architecture.md
+│   ├── agent-flow.md
+│   ├── memory-model.md
+│
+├── proposal/
+│   └── Innovatrix_Synaptix_Buildathon_Proposal.pptx
+│
+├── pathway/
+│   ├── pipeline_overview.md
+│   └── future_implementation.md
+│
+└── references/
+    ├── pathway_links.md
+    └── research_notes.md
 
 ## Track
 Track 1 — Agentic AI (Applied GenAI)
